@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kelly Rangel"
   avatar : "assets/images/Screen Shot 2023-02-07 at 3.01.55 PM.png"
-  bio    : "Welcome to my portfolio!"
+  bio    : "Data analyst - Data Visualization - Excel - SQL - Tableau - Python"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
