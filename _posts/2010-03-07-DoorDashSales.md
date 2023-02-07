@@ -1,7 +1,7 @@
 ---
 title: "DoorDash Sales: An Analysis Using Excel"
 categories:
-  - Projects
+  - Blog
 tags:
   - link
   - Post Formats
