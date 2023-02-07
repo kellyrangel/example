@@ -1,8 +1,8 @@
 main:
   - title: "My Projects"
     url: /posts/
-  #- title: "?"
-  #  url: /categories/
+  - title: "Education & Certifications"
+    url: /categories/
   #- title: "?"
   #  url: /tags/
   - title: "About"
