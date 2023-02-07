@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "K E L L Y  R A N G E L"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Kelly Rangel"
+  avatar : "assets/images/Screen Shot 2023-02-07 at 3.01.55 PM.png"
   bio    : "Welcome to my portfolio!"
   links:
     - label: "LinkedIn"
